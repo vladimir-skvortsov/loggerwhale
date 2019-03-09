@@ -1,0 +1,60 @@
+{
+  "_from": "loggerwhale",
+  "_id": "loggerwhale@1.3.0",
+  "_inBundle": false,
+  "_integrity": "sha1-V3g0Y3HkB66gS7uTCmQbiMSVisI=",
+  "_location": "/loggerwhale",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "loggerwhale",
+    "name": "loggerwhale",
+    "escapedName": "loggerwhale",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/loggerwhale/-/loggerwhale-1.3.0.tgz",
+  "_shasum": "5778346371e407aea04bbb930a641b88c4958ac2",
+  "_spec": "loggerwhale",
+  "_where": "C:\\programming\\New folder",
+  "author": {
+    "name": "Vladimir Skvortsov",
+    "email": "public@vladimirskvortsov.com",
+    "url": "https://github.com/vladimir-skvortsov"
+  },
+  "bugs": {
+    "url": "https://github.com/vladimir-skvortsov/loggerwhale/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "moment": "^2.22.1"
+  },
+  "deprecated": false,
+  "description": "Simple logger supporting output patterns, text formatting, message severity levels, etc.",
+  "files": [
+    "lib"
+  ],
+  "homepage": "https://github.com/vladimir-skvortsov/loggerwhale",
+  "keywords": [
+    "log",
+    "info",
+    "debug",
+    "help",
+    "console"
+  ],
+  "license": "MIT",
+  "main": "./lib/loggerwhale",
+  "name": "loggerwhale",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladimir-skvortsov/loggerwhale.git"
+  },
+  "version": "1.3.0"
+}
